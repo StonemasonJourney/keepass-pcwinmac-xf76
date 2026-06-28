@@ -1,4 +1,4 @@
-# 
+# 专业 KeePass 扩展 Mac OS版 | 独家 KeePass 扩展 PC Windows版。集成 IP信誉检查 和 安全分享，跨平台性能最大化。
 
 
 
